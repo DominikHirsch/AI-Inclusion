@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a9313d7e8bc4498a",
+    "id": "a2245d5e1f21ca75",
     "type": "split",
     "children": [
       {
-        "id": "3c11902d08d300e8",
+        "id": "2f41597018bb2223",
         "type": "tabs",
         "children": [
           {
-            "id": "c060f5656cef7837",
+            "id": "fb170800a5db71b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Web_Accessibility/Web_Accessibility.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Web_Accessibility"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a0529415d94ace27",
+    "id": "56ac491975e6d15b",
     "type": "split",
     "children": [
       {
-        "id": "c20ee06aa440c5de",
+        "id": "a69f9b7593d0caa1",
         "type": "tabs",
         "children": [
           {
-            "id": "dbb92b5bb87845c5",
+            "id": "4087df8e6eab2592",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "09183e3c872fae2c",
+            "id": "2a2268107e9edb7e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3efd79818f8f3299",
+            "id": "4f68a5ceaf523baf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "296635ae4e614ec2",
+    "id": "0a08d84354ce833c",
     "type": "split",
     "children": [
       {
-        "id": "637ee45f48addf56",
+        "id": "4537fb44e6f8fd99",
         "type": "tabs",
         "children": [
           {
-            "id": "6530d2b00c036577",
+            "id": "878633780418bc9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Web_Accessibility/Web_Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Web_Accessibility"
             }
           },
           {
-            "id": "d78bd7c3b28454f8",
+            "id": "941bdf7f74e94333",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Web_Accessibility/Web_Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Web_Accessibility"
             }
           },
           {
-            "id": "d5c355d6f8d79c54",
+            "id": "2f478a1400be6747",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "665e2d0937bec481",
+            "id": "15aa762fbb730507",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Web_Accessibility/Web_Accessibility.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Web_Accessibility"
             }
           }
         ]
@@ -168,13 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c060f5656cef7837",
+  "active": "fb170800a5db71b4",
   "lastOpenFiles": [
+    "Welcome.md",
     "Web_Accessibility/Web_Accessibility.md",
-    "index.md",
-    "Web_Accessibility",
-    "Neuer Ordner",
-    "_config.yml",
-    "Welcome.md"
+    "index.md"
   ]
 }
