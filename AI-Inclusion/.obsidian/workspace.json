@@ -11,10 +11,14 @@
             "id": "c060f5656cef7837",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web_Accesability/Web_Accesability.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Web_Accesability"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web_Accesability/Web_Accesability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Web_Accesability"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web_Accesability/Web_Accesability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Web_Accesability"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Web_Accesability/Web_Accesability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Web_Accesability"
             }
           }
         ]
@@ -161,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbb92b5bb87845c5",
+  "active": "c060f5656cef7837",
   "lastOpenFiles": [
+    "index.md",
+    "Web_Accesability/Web_Accesability.md",
+    "Web_Accesability",
+    "Neuer Ordner",
+    "_config.yml",
     "Welcome.md"
   ]
 }
