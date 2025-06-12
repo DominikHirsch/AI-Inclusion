@@ -8,3 +8,4 @@ This Wiki collections knowledge on how to use AI to support inclusion
 
 ## Topics:
 - [Web Accessibility](./Web_Accessibility/Web_Accessibility)
+- [Citizen Science](./Citizen_Science/Citizen_Science)
